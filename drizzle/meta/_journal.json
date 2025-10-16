@@ -8,6 +8,13 @@
       "when": 1760643179438,
       "tag": "0000_daily_fallen_one",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1760658227271,
+      "tag": "0001_optimal_boom_boom",
+      "breakpoints": true
     }
   ]
 }
